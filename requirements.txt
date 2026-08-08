@@ -7,12 +7,5 @@ matplotlib
 opencv-python
 Pillow
 scikit-learn
-protobuf
-h5py
-typing-extensions
 requests
 scipy
-tensorboard
-tensorflow-estimator
-wrapt
-absl-py
